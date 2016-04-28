@@ -55,6 +55,12 @@
           <AssociatedConnUserName />
           <FullPath>ALTER-Trigger-ReprogramarOrden-FORaLERTcHANGE.sql</FullPath>
         </FileNode>
+        <FileNode Name="ALTER-tblEmpleados-ToAddInactive.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblEmpleados-ToAddInactive.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
