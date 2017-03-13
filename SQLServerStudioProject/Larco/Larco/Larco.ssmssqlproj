@@ -61,6 +61,204 @@
           <AssociatedConnUserName />
           <FullPath>ALTER-tblEmpleados-ToAddInactive.sql</FullPath>
         </FileNode>
+        <FileNode Name="CREATE-WebUser.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE-WebUser.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CREATE-PageConfigTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CREATE-PageConfigTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblUsers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblUsers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblGroups-Roles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblGroups-Roles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblScreens-Modules.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblScreens-Modules.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EXPORT-tblScreens-Modules.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EXPORT-tblScreens-Modules.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblGroup_Screens-RoleModules.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblGroup_Screens-RoleModules.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblUser_Groups-UserRoles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblUser_Groups-UserRoles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblClientes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblClientes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="AllScripts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AllScripts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblEmpleados.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblEmpleados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblTareas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblTareas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblItemTasks.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblItemTasks.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblOrdenes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblOrdenes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER_tblProductos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER_tblProductos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblAggregateValue.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblAggregateValue.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblRouting.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblRouting.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-Ventas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-Ventas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblItems.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblItems.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblStock.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblStock.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblMergeOrdenes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblMergeOrdenes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblPlano.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblPlano.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblScrap.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblScrap.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblProvedores.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblProvedores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblEntradas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblEntradas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-Paises.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-Paises.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblEntradasDetalle.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblEntradasDetalle.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblMateriales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblMateriales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="EXPORT-PageConfig.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>EXPORT-PageConfig.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblSalidasDetalle.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblSalidasDetalle.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblSalidas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblSalidas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblEntradasSalidas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblEntradasSalidas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UPDATE-tblEntradas-Blancos-to-Larco.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UPDATE-tblEntradas-Blancos-to-Larco.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
