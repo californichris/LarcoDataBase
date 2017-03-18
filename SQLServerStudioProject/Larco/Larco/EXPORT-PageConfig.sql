@@ -30,7 +30,7 @@ PRINT ''
 
 DECLARE Page_Cursor CURSOR FOR
 
-	SELECT PageId,Name FROM Page WHERE Name IN ('SalidasAlmacen') 
+	SELECT PageId,Name FROM Page WHERE Name IN ('Templates','RoleModuleMapping','EntradasContraSalidas','Salidas','Entradas') 
 	ORDER BY Name
 
 OPEN Page_Cursor

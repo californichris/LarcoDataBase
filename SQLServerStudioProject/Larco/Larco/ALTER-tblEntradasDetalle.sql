@@ -19,10 +19,10 @@ ALTER TABLE tblEntradasDetalle
 ALTER COLUMN MAT_ID INT NOT NULL
 
 ALTER TABLE tblEntradasDetalle
-ALTER COLUMN ED_CANTIDAD INT NOT NULL
+ALTER COLUMN ED_CANTIDAD decimal(18,2) NOT NULL
 
 ALTER TABLE tblEntradasDetalle
-ALTER COLUMN ED_COSTO INT NOT NULL
+ALTER COLUMN ED_COSTO decimal(18,2) NOT NULL
 
 ---------------------------------------------
 --check this orders with rocio

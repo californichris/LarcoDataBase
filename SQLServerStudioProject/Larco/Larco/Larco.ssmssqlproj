@@ -15,6 +15,18 @@
           <ConnectionProtocol>NotSpecified</ConnectionProtocol>
           <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
         </ConnectionNode>
+        <ConnectionNode Name="STSQLINTDT1\EPEDT001:EPECAD\cbeltra">
+          <Created>2017-03-17T14:20:17.6058031-06:00</Created>
+          <Type>SQL</Type>
+          <Server>STSQLINTDT1\EPEDT001</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
@@ -30,6 +42,18 @@
           <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>ALTER-tblStockOrdenes-ForAlertChange.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblTiposMaterial.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblTiposMaterial.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ALTER-tblUnidadesMedida.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ALTER-tblUnidadesMedida.sql</FullPath>
         </FileNode>
         <FileNode Name="ALTER-Traer_Ordenes_ForAlertChange.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
@@ -252,6 +276,12 @@
           <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>ALTER-tblEntradasSalidas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="STEPS-03-17-2017.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LP150071W7E64\SQLSERVER2008R2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>STEPS-03-17-2017.sql</FullPath>
         </FileNode>
         <FileNode Name="UPDATE-tblEntradas-Blancos-to-Larco.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LP150071W7E64\SQLSERVER2008R2:True</AssociatedConnectionMoniker>

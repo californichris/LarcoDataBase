@@ -27,6 +27,7 @@ ALTER TABLE tblMateriales
 ADD CONSTRAINT uc_MaterialDescripcion UNIQUE ([MAT_Descripcion])
 GO
 
+
 /*
 select MAT_Descripcion, count(*) from tblMateriales group by MAT_Descripcion order by count(*) desc
 
